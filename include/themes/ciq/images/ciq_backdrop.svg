@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+	Subtle backdrop wash used behind the login / logout panel.  Mirrors the
+	soft green bloom the CIQ portal uses on its dark surfaces.
+-->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800" preserveAspectRatio="xMidYMid slice">
+	<defs>
+		<radialGradient id="ciqGlow" cx="50%" cy="38%" r="62%">
+			<stop offset="0%" stop-color="#11a66e" stop-opacity="0.20"/>
+			<stop offset="55%" stop-color="#11a66e" stop-opacity="0.06"/>
+			<stop offset="100%" stop-color="#11a66e" stop-opacity="0"/>
+		</radialGradient>
+	</defs>
+	<rect width="1200" height="800" fill="#0a0c0b"/>
+	<rect width="1200" height="800" fill="url(#ciqGlow)"/>
+</svg>

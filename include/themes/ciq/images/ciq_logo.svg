@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+	CIQ wordmark for the Cacti "ciq" theme.
+
+	This is a geometric reconstruction sized for the theme's header, console
+	rail and login panel.  If you have the official CIQ wordmark, drop it in
+	over this file - keep the file name and a wide aspect ratio (roughly 3:1)
+	and every placement in main.css keeps working.
+-->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 214 100" width="214" height="100" role="img" aria-label="CIQ">
+	<g fill="none" stroke-width="15" stroke-linecap="butt">
+		<!-- C -->
+		<path d="M 67.45 32.0 A 28 28 0 1 0 67.45 68.0" stroke="#ffffff"/>
+		<!-- I -->
+		<path d="M 103.5 22 L 103.5 78" stroke="#ffffff"/>
+		<!-- Q -->
+		<circle cx="161" cy="50" r="28" stroke="#11a66e"/>
+		<path d="M 180.8 69.8 L 194 83" stroke="#11a66e" stroke-linecap="round"/>
+	</g>
+</svg>
