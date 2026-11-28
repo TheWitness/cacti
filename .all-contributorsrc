@@ -1673,7 +1673,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/27321443?v=4",
       "profile": "https://github.com/alcatron",
       "contributions": [
-        "code"
+        "code",
+        "review"
       ]
     },
     {
@@ -1690,6 +1691,15 @@
       "name": "mixneko",
       "avatar_url": "https://avatars.githubusercontent.com/u/12106753?v=4",
       "profile": "https://github.com/mixneko",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "andretorresdg",
+      "name": "andretorresdg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43342188?v=4",
+      "profile": "https://github.com/andretorresdg",
       "contributions": [
         "code"
       ]
